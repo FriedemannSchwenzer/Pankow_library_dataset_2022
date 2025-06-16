@@ -1,4 +1,4 @@
-# Pankow Library Borrowing Analysis (2022)
+# Pankow Library Dataset 2022
 
 This repository contains a Jupyter Notebook that analyzes a dataset of over 1.5 million individual library borrowing transactions from the year 2022. The data covers eight public libraries in Berlin’s Pankow district:
 
