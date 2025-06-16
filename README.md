@@ -23,4 +23,5 @@ You can download the dataset from the [Berlin City Open Data Portal](https://dat
 
 A dashboard by the Pankow libraries is available [here](https://grafana.odis-berlin.de/public-dashboards/6b18fd27a9f84f959a4f63cfe0b985be?orgId=1).
 
+## Author
 Notebook by **Friedemann Schwenzer**
