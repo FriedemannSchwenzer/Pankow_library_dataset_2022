@@ -2,21 +2,14 @@
 
 This repository contains a Jupyter Notebook that analyzes a dataset of over 1.5 million individual library borrowing transactions from the year 2022. The data covers eight public libraries in Berlin’s Pankow district:
 
-    Janusz-Korczak-Bibliothek
-
-    Wolfdietrich-Schnurre-Bibliothek
-
-    Bettina-von-Arnim-Bibliothek
-
-    Bibliothek Am Wasserturm
-
-    Heinrich-Böll-Bibliothek
-
-    Kurt-Tucholsky-Bibliothek
-
-    Stadtteilbibliothek Buch-Karow (Karow)
-
-    Stadtteilbibliothek Buch-Karow (Buch)
+* Janusz-Korczak-Bibliothek
+* Wolfdietrich-Schnurre-Bibliothek
+* Bettina-von-Arnim-Bibliothek
+* Bibliothek Am Wasserturm
+* Heinrich-Böll-Bibliothek
+* Kurt-Tucholsky-Bibliothek
+* Stadtteilbibliothek Buch-Karow (Karow)
+* Stadtteilbibliothek Buch-Karow (Buch)
 
 **Scope of Analysis** 
 
